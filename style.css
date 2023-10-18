@@ -42,5 +42,12 @@ button {
     margin-top: 20px;
     padding: 10px 40px;
     border: none;
+    color: #fff;
+    font-size: 22px;
     background-image: linear-gradient(to left bottom, #cf00b6, #ff0086, #ff4f55, #ff8e26, #fac300);
+}
+
+.aaa {
+    color: #fff;
+    font-size: 22px;
 }
